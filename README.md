@@ -11,6 +11,6 @@ What's included:
 - The Unity project files
 - The compiled version of the program (Maze Project.exe)
 
-How to run the program:
+How to run the program: <br>
 Just open the "Maze Project.exe" file to run it.
 If you encounter any errors, try restarting the program and clearing the data.
